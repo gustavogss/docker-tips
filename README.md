@@ -73,7 +73,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 ```
 
-## 🛑 Dicas de limpeza:
+## 🛑 Dicas de produtividade:
 
 ### Subir uma imagem 
 ```
